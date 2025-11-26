@@ -1,0 +1,10 @@
+playwright>=1.41.0
+beautifulsoup4
+requests
+pdfplumber
+PyPDF2
+streamlit
+plotly
+pandas
+tqdm
+pymongo

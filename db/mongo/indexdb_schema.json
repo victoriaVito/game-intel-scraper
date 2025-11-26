@@ -1,0 +1,11 @@
+{
+  "games": [
+    {"id": "int", "name": "string", "developer": "string", "genre": "string", "is_match3": "bool", "competitor": "bool", "verified": "bool", "source": "string"}
+  ],
+  "updates": [
+    {"id": "int", "game_id": "int", "title": "string", "date": "date", "content": "string", "levels_added": "int", "verified": "bool"}
+  ],
+  "validations": [
+    {"store": "json", "differences": "json", "flags": "string"}
+  ]
+}
